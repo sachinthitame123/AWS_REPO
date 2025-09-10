@@ -26,7 +26,7 @@ def main():
         num1 = float(input("Enter first number: "))
         num2 = float(input("Enter second number: "))
 # Hi
-        if choice == '1':
+        if choice == '1'
             print("Result:", add(num1, num2))
         elif choice == '2':
             print("Result:", subtract(num1, num2))
